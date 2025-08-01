@@ -8,6 +8,8 @@ D:\ProjectC++\OpenGL\OpenGL\Project\opengl\shader.h(58,14): warning C4101: “in
 D:\ProjectC++\OpenGL\OpenGL\Project\opengl\shader.h(57,13): warning C4101: “success”: 未引用的局部变量
   (编译源文件“main.cpp”)
   
-D:\ProjectC++\OpenGL\OpenGL\Project\opengl\main.cpp(238,40): warning C4305: “参数”: 从“double”到“float”截断
-LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+D:\ProjectC++\OpenGL\OpenGL\Project\opengl\main.cpp(230,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ProjectC++\OpenGL\OpenGL\Project\opengl\main.cpp(231,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ProjectC++\OpenGL\OpenGL\Project\opengl\main.cpp(244,40): warning C4305: “参数”: 从“double”到“float”截断
+D:\ProjectC++\OpenGL\OpenGL\Project\opengl\main.cpp(269,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
   opengl.vcxproj -> D:\ProjectC++\OpenGL\OpenGL\Project\x64\Debug\opengl.exe
